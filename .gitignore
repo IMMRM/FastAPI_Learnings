@@ -39,3 +39,6 @@ htmlcov/
 # Temporary files
 *.tmp
 *.swp
+
+# Database files
+*.db
